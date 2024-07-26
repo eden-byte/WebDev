@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Our Menu</title>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="../code/script.js">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="assignment3.css">
+
+
+<h1>Our Menu</h1>
+<header>
+  <nav id="header-nav" class="navbar navbar-expand-xs  navbar-default navbar-fixed-top">
+  
+          <div class="container-fluid">
+            <div class="navbar-header">
+              <table>
+
+                <td>
+                  <a class="navbar-brand" href="#">Food, LLC</a>
+                </td>
+
+                <td>
+                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+            </td>
+<td>
+  <div id="collapsable-nav" class="collapse navbar-collapse">
+           <ul id="nav-list" class="nav navbar-nav navbar-right visible-xs">
+            <li class="text-center">
+              <a href="#chicken-div"><p class="item">Chicken</p></a>
+              <hr class="visible-xs">
+            </li>            
+            <li class="text-center beef-item">
+              <a href="#beef-div"><p class="item">Beef</p></a>
+              <hr class="visible-xs">
+            </li>
+            <li class="text-center sushi-item">
+              <a href="#sushi-div"><p class="item">Sushi</p></a>
+            </li>
+          </ul> 
+        </div>
+          </div>
+          </td>
+
+          </table>
+        </div>
+      </div> <!-- /.navbar-collapse -->
+     </nav>     
+</header>
+
+<center>
+<div class="row">
+  <div class="col-lg-3 col-md-4 col-sm-12 col-xs-12">
+    <p>
+    <span class="chicken">Chicken</span><br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+  </div>
+  <div class="col-lg-3 col-md-4 col-sm-12"><p> 
+    <span class="beef">Beef</span><br>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </p></div>
+  <div class="col-lg-3 col-md-4 col-sm-12"><p>
+    <span class="sushi">Sushi</span><br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </p></div>
+</div>
+</center>
+
+</body></html>
