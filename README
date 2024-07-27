@@ -1,0 +1,37 @@
+# Menu
+
+## Description
+This project is a simple web page that displays a menu for a fictional restaurant called 'Food, LLC'. It uses HTML, CSS, and Bootstrap for styling and layout.
+
+## Table of Contents
+- Installation
+- Usage
+- Code Structure
+- Features
+- Contributing
+- License
+
+## Installation
+1. Clone the repository: `git clone https://github.com/yourusername/eden-byte/WebDev`
+2. Open `index.html` in a web browser.
+
+## Usage
+Open the `index.html` file in a web browser to view the menu. The navigation bar allows users to quickly jump to different sections of the menu.
+
+## Code Structure
+- `index.html`: The main HTML file.
+- `css/bootstrap.min.css`: Bootstrap CSS for styling.
+- `css/styles.css`: Custom CSS for additional styling.
+- `assignment3.css`: Additional CSS for specific styles.
+- `../code/script.js`: JavaScript file for any interactive features.
+
+## Features
+- Responsive design using Bootstrap.
+- Navigation bar with links to different sections of the menu.
+- Sections for Chicken, Beef, and Sushi with placeholder text.
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## License
+This project is licensed under the MIT License.
